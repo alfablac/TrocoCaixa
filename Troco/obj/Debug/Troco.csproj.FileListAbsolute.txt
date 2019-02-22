@@ -1,0 +1,10 @@
+C:\Users\ulisses.silveira\source\repos\Troco\Troco\bin\Debug\Troco.exe.config
+C:\Users\ulisses.silveira\source\repos\Troco\Troco\bin\Debug\Troco.exe
+C:\Users\ulisses.silveira\source\repos\Troco\Troco\bin\Debug\Troco.pdb
+C:\Users\ulisses.silveira\source\repos\Troco\Troco\obj\Debug\Troco.csprojAssemblyReference.cache
+C:\Users\ulisses.silveira\source\repos\Troco\Troco\obj\Debug\Troco.Form1.resources
+C:\Users\ulisses.silveira\source\repos\Troco\Troco\obj\Debug\Troco.Properties.Resources.resources
+C:\Users\ulisses.silveira\source\repos\Troco\Troco\obj\Debug\Troco.csproj.GenerateResource.cache
+C:\Users\ulisses.silveira\source\repos\Troco\Troco\obj\Debug\Troco.csproj.CoreCompileInputs.cache
+C:\Users\ulisses.silveira\source\repos\Troco\Troco\obj\Debug\Troco.exe
+C:\Users\ulisses.silveira\source\repos\Troco\Troco\obj\Debug\Troco.pdb
